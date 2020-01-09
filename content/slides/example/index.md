@@ -10,9 +10,9 @@ tags: []
 title: Slides
 ---
 
-# Create slides in Markdown with Academic
+# Welcome to Slides
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Academic](https://sourcethemes.com/academic/)
 
 ---
 
@@ -158,6 +158,6 @@ Create `assets/css/reveal_custom.css` with:
 
 # Questions?
 
-[Ask](https://spectrum.chat/academic)
+[Ask](https://discourse.gohugo.io)
 
-[Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Documentation](https://sourcethemes.com/academic/docs/)

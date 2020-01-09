@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>/tags/biomarkers/</loc>
+    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/overview_mcc/</loc>
+    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
@@ -75,11 +90,6 @@
   <url>
     <loc>/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
